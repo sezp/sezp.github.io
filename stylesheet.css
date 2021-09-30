@@ -11,7 +11,7 @@
     z-index: 1;
   }
   
-  .topnav a {
+  .topnav a a:visited {
     float: left;
     color: #f2f2f2;
     text-align: center;
