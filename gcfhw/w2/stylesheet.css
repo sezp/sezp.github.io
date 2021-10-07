@@ -1,0 +1,145 @@
+/* Universal */
+
+* {
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    scroll-behavior: smooth;
+    
+}
+
+body {
+  background-color: #fff;
+}
+
+/* Header */
+
+.header {
+    
+}
+
+.headimg {
+    background-image: url("Mel-Yates_Common-Ground-_0044-re-72.jpeg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+  
+}
+
+.textcontainer {
+    width: 200px;
+    overflow: auto;
+    background-color: transparent;
+    
+}
+
+h1 {
+    padding: 10px;
+    color: white;
+    font-family: Futura;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 25pt;
+}
+
+/* Navigation */
+
+.topnav {
+    background-color: transparent;
+    overflow: hidden;
+    position: absolute;
+    margin-top: 20px;
+    height: 40px;
+    width: 100%;
+    padding-bottom: 5px;
+    font-family: Futura;
+    text-align: center;
+
+  }
+
+  .topnav a:link, a:visited{
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+
+  /* Main Content */
+
+  .main {
+    position: absolute;
+    top: 515px;
+    text-align: center;
+    font-family: Futura;
+  }
+
+  #maintext {
+    padding-left: 300px;
+    padding-right: 300px;
+  }
+
+  .main a {
+    color: #E59C1D;
+    font-size: 9pt;
+    text-decoration: none;
+  }
+
+  #email {
+    font-size: 10pt;
+  }
+
+  h2 {
+    color: #E59C1D;
+    font-weight: normal;
+    font-family: Futura;
+    font-size: 18pt;
+  
+  }
+
+  h3 {
+    color: #E59C1D;;
+    font-weight: normal;
+    font-family: Futura;
+    font-size: 12pt;
+  }
+
+  p {
+    font-size: 10pt;
+    color: #4F4F4F;
+  }
+
+  #menu {
+    background-image: url("rachel-park-hrlvr2ZlUNk-unsplash.jpg");
+    height: 100px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+
+  /* Footer */
+
+#footer {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background-color: #E59C1D;
+    color: white;
+    text-align: center;
+  }
+
+#footer p {
+  color: white;
+}
+
+#footer a {
+  color: white;
+}
+ 
