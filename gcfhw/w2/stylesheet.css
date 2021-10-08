@@ -38,7 +38,7 @@ body {
 h1 {
     padding: 10px;
     color: #E59C1D;
-    font-family: Futura;
+    font-family: "Nanum Gothic", "sans serif";
     text-transform: uppercase;
     font-weight: normal;
     font-size: 25pt;
@@ -54,7 +54,7 @@ h1 {
     height: 40px;
     width: 100%;
     padding-bottom: 5px;
-    font-family: Futura;
+    font-family: "Nanum Gothic", "sans serif";
     text-align: right;
 
   }
@@ -74,7 +74,7 @@ h1 {
     position: absolute;
     top: 515px;
     text-align: center;
-    font-family: Futura;
+    font-family: "Nanum Gothic", "sans serif";
   }
 
   #maintext {
@@ -95,7 +95,7 @@ h1 {
   h2 {
     color: #E59C1D;
     font-weight: normal;
-    font-family: Futura;
+    font-family: "Nanum Gothic", "sans serif";
     font-size: 18pt;
   
   }
