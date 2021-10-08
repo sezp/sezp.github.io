@@ -19,7 +19,7 @@ body {
 }
 
 .headimg {
-    background-image: url("Mel-Yates_Common-Ground-_0044-re-72.jpeg");
+    background-image: url("rr-abrot-pNIgH0y3upM-unsplash.jpg");
     height: 500px;
     width: 100%;
     background-position: center;
@@ -55,13 +55,13 @@ h1 {
     width: 100%;
     padding-bottom: 5px;
     font-family: Futura;
-    text-align: center;
+    text-align: right;
 
   }
 
   .topnav a:link, a:visited{
     color: white;
-    text-align: center;
+    text-align: right;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 18px;
