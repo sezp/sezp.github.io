@@ -40,7 +40,7 @@ h1 {
     color: #E59C1D;
     font-family: "Nanum Gothic", sans-serif;
     text-transform: uppercase;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 25pt;
 }
 
@@ -94,16 +94,16 @@ h1 {
 
   h2 {
     color: #E59C1D;
-    font-weight: normal;
+    font-weight: bold;
     font-family: "Nanum Gothic", sans-serif;
     font-size: 18pt;
-  
+     
   }
 
   h3 {
     color: #E59C1D;;
-    font-weight: normal;
-    font-family: Futura;
+    font-weight: bold;
+    font-family: "Nanum Gothic", sans-serif;
     font-size: 12pt;
   }
 
